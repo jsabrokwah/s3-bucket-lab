@@ -1,6 +1,6 @@
 # AWS S3 Labs - Comprehensive Lab Report
 **Student**: J.S. Abrokwah  
-**Date**: [Lab Completion Date]  
+**Date**: 8th August, 2024  
 **Course**: DevOps Training - Solutions Architect Associate Preparation
 
 ---
